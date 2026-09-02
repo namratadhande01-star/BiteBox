@@ -6,3 +6,26 @@
 .sub-logo{
     color:red;
 }
+
+
+.nav-link:hover{
+    border-bottom:  1px solid red;
+}
+
+.nav-link:hover{
+    border-bottom:  1px solid red;
+    font-size 
+}
+
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+
+table th, td{
+    border:1px solid black;
+    padding:5px:
+}
+th,td{
+    padding: 20px;
+}
